@@ -13,6 +13,6 @@
 |    project name    | type  | repo |
 |:----------:|:------:| :---- | 
 | HanGAN |'CV' 'GAN' | [https://github.com/TeamTechArt/HanGAN](https://github.com/TeamTechArt/HanGAN)
-| AI Automatic investment Bot | 'Python' | [https://github.com/TeamTechArt/HanGAN](https://github.com/oddhyeon/AI-Stock-bot)
+| AI Automatic investment Bot | 'Python' | [https://github.com/oddhyeon/AI-Stock-bot](https://github.com/oddhyeon/AI-Stock-bot)
 
 
