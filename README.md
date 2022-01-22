@@ -1,26 +1,18 @@
 ### HI there 👋
-
-
 <!-- 방문자 수 표시 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foddhyeon&count_bg=%23424540&title_bg=%233D67A0&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- -->
-<br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minssoj&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#About Me
+### About Me
 - 🌱 I’m currently learning ML/DL/CV
-- 📫 How to reach me : roughideal@gmail.com
-- 
-<!--
-**oddhyeon/oddhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me : <a href="mailto:roughideal@gmail.com">roughideal@gmail.com</a>
+- 💬 Blog : [https://odd-it.tistory.com/](https://odd-it.tistory.com/)
 
-Here are some ideas to get you started:
+![oddhyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=oddhyeon&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+|    project name    | type  | repo |
+|:----------:|:------:| :---- | 
+| HanGAN |'CV' 'GAN' | [https://github.com/TeamTechArt/HanGAN](https://github.com/TeamTechArt/HanGAN)
+| AI Automatic investment Bot | 'Python' | [https://github.com/TeamTechArt/HanGAN](https://github.com/oddhyeon/AI-Stock-bot)
+
+
