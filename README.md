@@ -1,6 +1,4 @@
 ### HI there 👋
-<!-- 방문자 수 표시 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foddhyeon&count_bg=%23424540&title_bg=%233D67A0&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### ABOUT ME
 - 🌱 I’m currently learning ML/DL/CV
